@@ -1,4 +1,4 @@
-name: "Publish Container Image"
+name: "Publish Container Image ghcr.io"
 
 on:
   push:
